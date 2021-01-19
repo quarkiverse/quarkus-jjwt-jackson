@@ -9,9 +9,9 @@
     </parent>
 
     <groupId>io.quarkiverse.jjwtjackson</groupId>
-    <artifactId>quarkiverse-jjwt-jackson-parent</artifactId>
+    <artifactId>quarkus-jjwt-jackson-parent</artifactId>
     <version>0.0.3-SNAPSHOT</version>
-    <name>Quarkiverse - Java JWT - Jackson - Parent</name>
+    <name>Quarkus - Java JWT - Jackson - Parent</name>
 
     <packaging>pom</packaging>
 
@@ -100,14 +100,14 @@
     </developers>
 
     <scm>
-        <url>https://github.com/quarkiverse/quarkiverse-jjwt-jackson</url>
-        <connection>scm:git:git@github.com:quarkiverse/quarkiverse-jjwt-jackson.git</connection>
-        <developerConnection>scm:git:git@github.com:quarkiverse/quarkiverse-jjwt-jackson.git</developerConnection>
+        <url>https://github.com/quarkiverse/quarkus-jjwt-jackson</url>
+        <connection>scm:git:git@github.com:quarkiverse/quarkus-jjwt-jackson.git</connection>
+        <developerConnection>scm:git:git@github.com:quarkiverse/quarkus-jjwt-jackson.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/quarkiverse/quarkiverse-jjwt-jackson/issues/</url>
+        <url>https://github.com/quarkiverse/quarkus-jjwt-jackson/issues/</url>
     </issueManagement>
 </project>
