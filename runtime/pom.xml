@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.quarkiverse.jjwtjackson</groupId>
-        <artifactId>quarkiverse-jjwt-jackson-parent</artifactId>
+        <artifactId>quarkus-jjwt-jackson-parent</artifactId>
         <version>0.0.3-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>quarkiverse-jjwt-jackson</artifactId>
-    <name>Quarkiverse - Java JWT - Jackson - Runtime</name>
+    <artifactId>quarkus-jjwt-jackson</artifactId>
+    <name>Quarkus - Java JWT - Jackson - Runtime</name>
 
     <dependencies>
         <dependency>
