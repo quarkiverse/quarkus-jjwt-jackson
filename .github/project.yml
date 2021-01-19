@@ -1,4 +1,4 @@
-name: Quarkiverse JJWT Jackson
+name: Quarkus JJWT Jackson
 release:
   current-version: 0.0.2
   next-version: 0.0.3-SNAPSHOT
