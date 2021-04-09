@@ -10,6 +10,7 @@
 
     <artifactId>quarkus-jjwt-jackson</artifactId>
     <name>Quarkus - Java JWT - Jackson - Runtime</name>
+    <description>Create JWT tokens</description>
 
     <dependencies>
         <dependency>
