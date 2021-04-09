@@ -10,7 +10,7 @@
 
     <groupId>io.quarkiverse.jjwtjackson</groupId>
     <artifactId>quarkus-jjwt-jackson-parent</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>Quarkus - Java JWT - Jackson - Parent</name>
 
     <packaging>pom</packaging>
@@ -103,7 +103,7 @@
         <url>https://github.com/quarkiverse/quarkus-jjwt-jackson</url>
         <connection>scm:git:git@github.com:quarkiverse/quarkus-jjwt-jackson.git</connection>
         <developerConnection>scm:git:git@github.com:quarkiverse/quarkus-jjwt-jackson.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>0.0.4</tag>
     </scm>
 
     <issueManagement>
