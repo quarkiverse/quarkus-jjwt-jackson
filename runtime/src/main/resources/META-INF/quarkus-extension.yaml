@@ -1,5 +1,5 @@
 ---
-name: "Quarkus JJWT Jackson"
+name: "JJWT Jackson"
 metadata:
   keywords:
   - "jwt"
