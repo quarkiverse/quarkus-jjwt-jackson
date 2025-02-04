@@ -26,7 +26,7 @@
         <resource-plugin.version>3.2.0</resource-plugin.version>
         <surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
 
-        <jjwt.version>0.11.2</jjwt.version>
+        <jjwt.version>0.12.6</jjwt.version>
     </properties>
 
     <modules>
