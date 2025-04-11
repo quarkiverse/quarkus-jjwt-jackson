@@ -5,7 +5,7 @@
     <parent>
         <groupId>io.quarkiverse</groupId>
         <artifactId>quarkiverse-parent</artifactId>
-        <version>7</version>
+        <version>20</version>
     </parent>
 
     <groupId>io.quarkiverse.jjwtjackson</groupId>
@@ -21,12 +21,12 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.parameters>true</maven.compiler.parameters>
-        <quarkus.version>2.0.1.Final</quarkus.version>
+        <quarkus.version>2.16.2.Final</quarkus.version>
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <resource-plugin.version>3.2.0</resource-plugin.version>
         <surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
 
-        <jjwt.version>0.11.2</jjwt.version>
+        <jjwt.version>0.12.6</jjwt.version>
     </properties>
 
     <modules>
